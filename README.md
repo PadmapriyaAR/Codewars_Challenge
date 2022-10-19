@@ -1,2 +1,3 @@
 # Codewars_Challenge
-Codewars
+
+Convert boolean values to strings 'Yes' or 'No'.
